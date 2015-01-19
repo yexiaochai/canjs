@@ -1,0 +1,10 @@
+
+**/*.lock
+**/*.bak
+node_modules
+.idea
+*.xml
+
+
+2.js
+test
